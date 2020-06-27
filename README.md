@@ -92,7 +92,7 @@ Debemos asegurarnos que el número de teléfono ingresado debe ser un teléfono 
 
 14.	Debemos esperar hasta que la cuenta se active, para ello debemos revisar la dirección de correo electrónico que hayamos ingresado, allí llegará un e-mail de activación
 
-![f10]https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f10.png)
+![f10](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f10.png)
 
 **Creación de la máquina virtual** 
 
