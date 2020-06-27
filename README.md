@@ -42,26 +42,26 @@ con esta licencia podemo acceder a todas la herrramientas que AWS nos afrece, de
 
 1.	Ingrese a la pagina de Amazon Web Services(https://aws.amazon.com/es/free/)
 
-¡[f1](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f1.png)
+![f1](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f1.png)
 
 2.	Damos clic en el botón “crea una cuenta gratuita”
 
 3.	Llenamos los datos solicitados 
 
-¡[f2](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f2.png)
+![f2](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f2.png)
 
 4.	Luego de haber llenado los datos damos clic en el botón “continuar”
 
 5.	Se desplegará la siguiente ventana:
 
-¡[f3](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f3.png)
+![f3](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f3.png)
 
 Debemos especificar si la cuenta que vamos a crear es una cuenta profesional para una empresa o una cuenta personal.
 En nuestro caso elegiremos la creación de cuenta personal.
 
 6.	Completamos los datos solicitados.
 
-¡[f4](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f4.png)
+![f4](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f4.png)
 
 Debemos asegurarnos que el número de teléfono ingresado debe ser un teléfono celular debido a que llegara un código de verificación además debemos estar seguros que el nuermo ingreddaso es correcto, sine ste código no podremos validar la cuenta.
 
@@ -69,30 +69,30 @@ Debemos asegurarnos que el número de teléfono ingresado debe ser un teléfono 
 
 8.	Presionamos el botón “Crear cuenta y continuar”.
 
-¡[f5](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f5.png)
+![f5](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f5.png)
 
 9.	En la pagina que se despliega debemos llenar llenar los datos que nos piden acerca de nuestra tarjeta de crédito. Esta información se requiere para confirmar nuestra cuenta.
 
-¡[f6](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f6.png)
+![f6](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f6.png)
 
 
 10.	Luego de llenar los datos le damos clic al botón “verificar y continuar”.
 
 11.	En la siguiente ventana volvemos a ingresar nuestro teléfono móvil a donde llegara el código de verificación.
 
-12.	¡[f7](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f7.png)
+![f7](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f7.png)
 
-13.	Una vez ingresado el código aparecerá el siguiente mensaje:
+12.	Una vez ingresado el código aparecerá el siguiente mensaje:
 
-¡[f8](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f8.png)
+![f8](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f8.png)
 
-14.	A continuación debemos elegir el plan que queremos, para nuestro caso usaremos el plan gratuito.
+13.	A continuación debemos elegir el plan que queremos, para nuestro caso usaremos el plan gratuito.
 
-¡[f9](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f9.png)
+![f9](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f9.png)
 
-15.	Debemos esperar hasta que la cuenta se active, para ello debemos revisar la dirección de correo electrónico que hayamos ingresado, allí llegará un e-mail de activación
+14.	Debemos esperar hasta que la cuenta se active, para ello debemos revisar la dirección de correo electrónico que hayamos ingresado, allí llegará un e-mail de activación
 
-¡[f10]https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f10.png)
+![f10]https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f10.png)
 
 **Creación de la máquina virtual** 
 
