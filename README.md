@@ -96,10 +96,109 @@ Debemos asegurarnos que el número de teléfono ingresado debe ser un teléfono 
 
 **Creación de la máquina virtual** 
 
+15. Una vez que hayamos ingresado a la nuestra cuenta damos clic en el boton "Sevicios".
 
+16. En la seccion de informactica seleccionamos la opcion EC2
 
+![f11](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f11.png)
 
+17. a continuacion al lado izquierdo de nuestra pantalla buscamos la seccion network y segurity y seleccionamos la opcion Key Pairs
 
+![f12](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f12.png)
+
+18. damos clic en el boton "create Keys" 
+
+![f13](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f13.png)
+
+19. En la siguiente pagina Ponemos un nombre y seleccionamos la opcion "PEM". damos clic en "Create key pairs".
+
+![f14](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f14.png)
+
+Cuando demos clic en el boton create key parirs se descargara un archivo PEM en nuestra computadora.
+
+20. Una vez hecho esto nos vamos a la seccion "Intances" y seleccionamos la opcion "Intance"
+
+![f15](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f15.png)
+
+21. Para crear una nueva maquina virtual damos clic en el boton "Launch instance".
+
+22. Seleccionamos el sistema operativo de nuestra maquina virtual.
+
+Para nuesto caso seleccionamos "Windows Server 2016". Damos clic en "select".
+
+![f16](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f16.png)
+
+23. En la siguiente pagina debemos escoger la caracteritica que mas se ajuste a nuestras necesidades.
+
+24. una vez seleccionado estas caracteristicas damos clic en el boton "review and Launch"
+
+![f17](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f17.png)
+
+25. Damos clic en el boton "Launch"
+
+![f18](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f18.png)
+
+26. En la pantalla que se despliega debemos seleccionar la opcion "Choose an excisting key pair" damos clic 
+
+![f19](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f19.png)
+
+27. Marcamos el casillero de la parte inferior de la pantanlla y damos clic en el boton "lauch instances".
+
+![f20](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f20.png)
+
+28. La siguiente pagina nos indica que nuestra maquina virtual ha sido creada con exito.
+
+![f21](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f21.png)
+
+29. Nos dirigimos al final de la pagina y damos clic en el boton "view instance".
+
+30. Debemos chequear que estos campos se encutren asi:
+
+![f22](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f22.png)
+
+Sino entonces se habrá producido un error al momento de crear nuestra maquina virtual.
+
+31. Ahora debemos darle un nombre a nuestra maquina virtual, esto lo haremos presiondando el simbolo de un lapiz que se encuentra en el campo "Name".
+
+![f23](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f23.png)
+
+32. El siguiente paso es ingresar a nuestra maquina virtual, para ello damos clic derecho sobre cualquier parte de de la fila de la maquina que queramos conectar se desplegara el sigueinte menu.
+
+![f24](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f24.png)
+
+33. Seleccionmos la opcion "Get Windows Password".
+
+34. En la ventana que se despliega damos clic en el boton seleccionar archivo y cargamos el archivo PEM que se descargo en nuestra computadora cuando generamos el Key pairs
+
+35. Cuando realicemos esto damos clic en el boton "Decrypt password".
+
+![f25](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f25.png)
+
+En la pagina que se despliega debemos anotar el password ya que con este ingresaremos a nuestra maquina virtual.
+
+![f26](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f26.png)
+
+36. una vez hecho esto volvemos a dar clic derecho en la fila de la maquina virtual que queramos inicializar y seleccionamos la opcion conectar.
+
+37. Damos clic en el boton "Download Remote Desktop File" y esperamos a que se descargue el archivo.
+
+![f27](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f27.png)
+
+38. Cuando termine de descargarse lo ejecutamos y aparecera la siguiente pantalla:
+
+![f28](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f28.png)
+
+39. Damos clic en conectar
+
+40. Ingresamos la clave que se genero en el paso 35 y damos clic en aceptar
+
+![f29](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f29.png)
+
+41. Damos clic en el boton "si"
+
+Y listo! habremos creado nuestra maquina virtual.
+
+![f30](https://github.com/JorgeGallegos99/Generar-M-quinas-Virtuales-en-Amazon/blob/master/IMG/f30.png)
 
 **Bibliografía**
 
